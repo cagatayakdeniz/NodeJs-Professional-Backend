@@ -1,0 +1,31 @@
+3/21/2023, 6:38:06 PM || info || Database connection success
+3/21/2023, 6:38:07 PM || info || Request at: path=> /api/title/ | url=> /api/title/ | body=> undefined | params=> {} | query=> {}
+3/21/2023, 6:38:07 PM || error || message => IsAuth Error
+3/21/2023, 6:38:13 PM || info || Database connection success
+3/21/2023, 6:38:21 PM || info || Request at: path=> /api/company/ | url=> /api/company/ | body=> undefined | params=> {} | query=> {}
+3/21/2023, 7:13:59 PM || info || Database connection success
+3/21/2023, 7:14:15 PM || info || Request at: path=> /api/person/ | url=> /api/person/ | body=> undefined | params=> {} | query=> {}
+3/21/2023, 7:15:27 PM || info || Database connection success
+3/21/2023, 7:15:57 PM || info || Database connection success
+3/21/2023, 7:16:22 PM || info || Database connection success
+3/21/2023, 10:31:56 PM || info || Database connection success
+3/21/2023, 10:32:20 PM || info || Database connection success
+3/21/2023, 10:58:40 PM || info || Database connection success
+3/23/2023, 12:01:56 AM || info || Database connection success
+3/23/2023, 12:02:53 AM || info || Database connection success
+3/23/2023, 12:03:21 AM || info || Database connection success
+3/23/2023, 12:03:23 AM || info || Database connection success
+3/23/2023, 12:04:03 AM || info || Database connection success
+3/23/2023, 12:04:59 AM || info || Request at: path=> /api/title/create | url=> /api/title/create | body=> undefined | params=> {} | query=> {}
+3/23/2023, 12:04:59 AM || error || message => IsAuth Error
+3/23/2023, 12:05:21 AM || info || Database connection success
+3/23/2023, 12:05:22 AM || info || Request at: path=> /api/title/create | url=> /api/title/create | body=> undefined | params=> {} | query=> {}
+3/23/2023, 12:05:22 AM || error || message => ValidationError: name: Path `name` is required.
+3/23/2023, 12:05:55 AM || info || Database connection success
+3/23/2023, 12:06:04 AM || info || Database connection success
+3/23/2023, 12:06:05 AM || info || Request at: path=> /api/title/create | url=> /api/title/create | body=> undefined | params=> {} | query=> {}
+3/23/2023, 12:06:13 AM || info || Request at: path=> /api/title/create | url=> /api/title/create | body=> undefined | params=> {} | query=> {}
+3/23/2023, 12:08:27 AM || info || Database connection success
+3/23/2023, 12:08:33 AM || info || Database connection success
+3/23/2023, 12:08:45 AM || info || Database connection success
+3/23/2023, 12:08:59 AM || info || Database connection success
